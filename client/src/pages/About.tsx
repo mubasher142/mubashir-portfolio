@@ -152,6 +152,7 @@ export default function About() {
                   <li>• Descriptive Statistics Certificate</li>
                   <li>• SQL 30 Days Certificate</li>
                   <li>• Data Analysis</li>
+                  <li>• Generative & Agentic AI Foundations</li>
                   <li>• Data Science  and AI  Specialization (In Progress)</li>
                 </ul>
               </div>

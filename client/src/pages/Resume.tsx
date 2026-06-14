@@ -33,7 +33,7 @@ export default function Resume() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold">My Resume</h3>
-                  <p className="text-foreground/60">PDF Format • Last Updated: 2025</p>
+                  <p className="text-foreground/60">PDF Format • Last Updated: 2026</p>
                 </div>
               </div>
               <Button
@@ -117,7 +117,10 @@ export default function Resume() {
                 <div className="flex flex-wrap gap-2">
                   {[
                     "Python",
-                    "R",
+                    "c++",
+                    "FastAPI",
+                    "Docker",
+                    "langchain",
                     "SQL",
                     "Machine Learning",
                     "Deep Learning",
